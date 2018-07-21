@@ -12,7 +12,7 @@ def using_while(levitation = 6)
 	while levitation < 10
 		puts  "Wingardium Leviosa"
 		do levitation + 1
-	if levitation == 1
+	if levitation == 10
 		break
 end
 end
